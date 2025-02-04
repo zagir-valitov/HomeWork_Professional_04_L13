@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-Console.WriteLine("HomeWork Professional 03\n");
+Console.WriteLine("Home Work Professional 03\n");
 
 Stopwatch stopwatch = new Stopwatch();
 int[] arrayInts = { 100_000, 1_000_000, 10_000_0000 };
